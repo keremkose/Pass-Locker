@@ -1,0 +1,57 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment folders
+env/
+venv/
+.pass_locker_venv/
+
+# Distribution/Packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Test output
+.tox/
+.coverage
+*.cover
+coverage.xml
+htmlcov/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# dotenv environment variables
+.env
+.env.*
+
+# Mypy type-checking files
+.mypy_cache/
+dmypy.json
+dmypy.log
+
+# Pyre type-checking files
+.pyre/
+
+#kerem
+*venv/
